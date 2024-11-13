@@ -1,5 +1,9 @@
 <template>
-  <div class="more-content">您可在此编写任意内容</div>
+  <div class="more-content">
+    <iframe src="https://api.lvems.top/project/sakana.html" width="100%" height="100%" align="center" scrolling="auto" frameborder="0" allowTransparency="true" >
+
+      </iframe>
+  </div>
 </template>
 
 <style lang="scss" scoped>
